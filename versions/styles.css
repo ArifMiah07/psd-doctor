@@ -29,7 +29,7 @@ body {
   background-color: var(--background-color);
   color: var(--text-color);
   line-height: 1.6;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 /*======================================================= 
@@ -64,8 +64,8 @@ body {
   z-index: 1001;
 }
 
-.logo-img {
-  width: 120px;
+.logo-icon {
+  width: 40px;
   height: 40px;
   margin-right: 0.5rem;
 }
@@ -182,7 +182,7 @@ body {
   max-width: 1200px;
   background-color: var(--main-background-color);
   margin: 0 auto;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .hero-section {
